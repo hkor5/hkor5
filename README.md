@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Koray Hüner
+Mekatronik Sistemler,Mühendislik 
 <!--
 **hkor5/hkor5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
